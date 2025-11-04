@@ -14,7 +14,8 @@
 # Circuit Diagram:
 
 ---
-To upload
+<img width="818" height="439" alt="image" src="https://github.com/user-attachments/assets/9de75754-0245-4eac-a4bc-95c6e49cd862" />
+
 --
 
 # Procedure // Modify the procedure based on your circuit
@@ -93,7 +94,7 @@ void loop(){
 --
 
 # OUTPUT:
-<img width="861" height="144" alt="image" src="https://github.com/user-attachments/assets/1978f26d-ae57-4b91-974a-4ce1b421ce1e" />
+<img width="858" height="75" alt="Screenshot 2025-11-04 174456" src="https://github.com/user-attachments/assets/cc9daa02-3a6a-4188-bd72-00d7180e09d8" />
 
 
 ---
